@@ -1,0 +1,53 @@
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/davidapp.deps.json
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/davidapp.runtimeconfig.json
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/davidapp.runtimeconfig.dev.json
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/davidapp.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/davidapp.pdb
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/Azure.Storage.Blobs.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/inathim/repos/davidapp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.AssemblyInfoInputs.cache
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.AssemblyInfo.cs
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.csproj.CoreCompileInputs.cache
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.csproj.CopyComplete
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.dll
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.pdb
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.genruntimeconfig.cache
+/Users/inathim/repos/davidapp/obj/Debug/netcoreapp3.1/davidapp.csproj.AssemblyReference.cache
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/davidapp.deps.json
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/davidapp.runtimeconfig.json
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/davidapp.runtimeconfig.dev.json
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/davidapp.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/davidapp.pdb
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Azure.Security.KeyVault.Secrets.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Azure.Storage.Blobs.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.csproj.AssemblyReference.cache
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.AssemblyInfoInputs.cache
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.AssemblyInfo.cs
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.csproj.CoreCompileInputs.cache
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.csproj.CopyComplete
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.dll
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.pdb
+/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/Debug/netcoreapp3.1/davidapp.genruntimeconfig.cache

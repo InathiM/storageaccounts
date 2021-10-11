@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/davidapp.csproj": {}
+  },
+  "projects": {
+    "/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/davidapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/davidapp.csproj",
+        "projectName": "davidapp",
+        "projectPath": "/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/davidapp.csproj",
+        "packagesPath": "/Users/inathim/.nuget/packages/",
+        "outputPath": "/Users/inathim/Documents/My Work/Upwork/David Wood/davidapp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/inathim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "Azure.Security.KeyVault.Secrets": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
